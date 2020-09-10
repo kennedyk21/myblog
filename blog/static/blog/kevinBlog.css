@@ -1,0 +1,59 @@
+@charset "utf-8";
+#nav {
+	width: 75%;
+	background-color: #FECEAB;
+	height: auto;
+	margin-right: 12.5%;
+	margin-left: 12.5%;
+	position: fixed;
+}
+body {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #2A363B;
+}
+.adress {
+	width: 33.3333%;
+	float: left;
+	color: #2A363B;
+	font-size: xx-large;
+	text-align: center;
+	font-family: megrim;
+	font-style: normal;
+	font-weight: 400;
+}
+.post {
+	width: 94%;
+	background-color: #2A363B;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+	color: #FECEAB;
+
+}
+
+#logo {
+	width: 25%;
+	text-align: center;
+	height: auto;
+	font-family: megrim;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	color: #E84A5F;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+#site {
+	width: 69%;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #99B898;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
